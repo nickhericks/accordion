@@ -12,7 +12,7 @@ It is the first thing a person encounters before they even see your code, so mak
 
 
 # Accordion component
-An accordion component that allows for content to be shown/hidden based on a user action.
+> An accordion component that allows for content to be shown/hidden based on a user action.
 
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
