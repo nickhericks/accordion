@@ -10,7 +10,7 @@ It is the first thing a person encounters before they even see your code, so mak
 
 <!-- ![alt text](images/sprite.svg "hover text") -->
 
-
+<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300">
 
 # Accordion component
 An accordion component that allows for content to be shown/hidden based on a user action.
@@ -18,11 +18,11 @@ An accordion component that allows for content to be shown/hidden based on a use
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## View project :point_down:
+## :zap: View project
 Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
 
-## Demo :sparkles:
-<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300">
+<!-- ## Demo :sparkles:
+<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300"> -->
 
 <!-- ## Features
 What makes your project stand out? (screenshots if beneficial)
@@ -38,7 +38,7 @@ What makes your project stand out? (screenshots if beneficial)
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
 
-## Acknowledgements :raised_hands:
+## :raised_hands: Acknowledgements
 - This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
 
 
