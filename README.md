@@ -8,25 +8,24 @@ It is the first thing a person encounters before they even see your code, so mak
 
 <!-- indent 4 spaces to write a block of code -->
 
-<!-- ![alt text](images/sprite.svg "feature screenshot") -->
+<!-- ![alt text](images/sprite.svg "hover text") -->
 
 
 
 ## Accordion component
 An accordion component that allows for content to be shown/hidden based on a user action.
 
-## Motivation
-Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk).
+<!-- ## Motivation
+Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## [👉 Demo](https://nickhericks.github.io/accordion/)
+## 👉 View project
 Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
 
+## :sparkles: Acknowledgements :sparkles:
+- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
+
 ## Demo
-
-<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="48">
-
-![feature demo](https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D "feature demo")
-
+<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="400">
 
 <!-- ## Features
 What makes your project stand out? (screenshots if beneficial)
@@ -41,8 +40,11 @@ What makes your project stand out? (screenshots if beneficial)
 <!-- ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
-## :sparkles: Acknowledgements :sparkles:
-- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
+
+<!-- ## :sparkles: Acknowledgements :sparkles:
+- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)! -->
+
+
 <!--
 ## License
 MIT © 2019 [Nick Hericks](https://www.nickhericks.com) -->
