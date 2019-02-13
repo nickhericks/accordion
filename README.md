@@ -24,6 +24,8 @@ A short description of the motivation behind the creation and maintenance of the
 ## Demo
 👉 Watch it [here](#).
 
+:sparkles:
+
 ## Features
 What makes your project stand out? (screenshots if beneficial)
 
@@ -38,7 +40,7 @@ What makes your project stand out? (screenshots if beneficial)
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Acknowledgements
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project.
+- @zellwk
 
 ## License
 MIT © 2019 [Nick Hericks](https://www.nickhericks.com)
