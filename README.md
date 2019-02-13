@@ -17,7 +17,7 @@ An accordion component that allows for content to be shown/hidden based on a use
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## :eyes: View project
+## :mag_right: View project
 Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
 
 <!-- ## Demo :sparkles:
