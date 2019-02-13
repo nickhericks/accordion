@@ -17,7 +17,7 @@ An accordion component that allows for content to be shown/hidden based on a use
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## :zap: View project
+## :eyes: View project
 Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
 
 <!-- ## Demo :sparkles:
@@ -40,7 +40,7 @@ Show what the library does as concisely as possible, developers should be able t
 ## :raised_hands: Acknowledgements
 - This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
 
-## Demo :sparkles:
+## :sparkles: Demo
 <img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300">
 
 <!--
