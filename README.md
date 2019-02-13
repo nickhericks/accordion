@@ -12,20 +12,17 @@ It is the first thing a person encounters before they even see your code, so mak
 
 
 
-## Accordion component
+# Accordion component
 An accordion component that allows for content to be shown/hidden based on a user action.
 
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## 👉 View project
+## View project :point_down:
 Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
 
-## :sparkles: Acknowledgements :sparkles:
-- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
-
-## Demo
-<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="400">
+## Demo :sparkles:
+<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300">
 
 <!-- ## Features
 What makes your project stand out? (screenshots if beneficial)
@@ -41,8 +38,8 @@ What makes your project stand out? (screenshots if beneficial)
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
 
-<!-- ## :sparkles: Acknowledgements :sparkles:
-- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)! -->
+## Acknowledgements :raised_hands:
+- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
 
 
 <!--
