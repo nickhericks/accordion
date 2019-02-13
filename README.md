@@ -17,8 +17,8 @@ It is the first thing a person encounters before they even see your code, so mak
 <!-- ## Motivation
 Built as part of a JavaScript course by [@zellwk](https://github.com/zellwk). -->
 
-## :mag_right: View project
-Live version available at [https://nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/).
+## View project :mag_right: 
+Live version available at [nickhericks.github.io/accordion/](https://nickhericks.github.io/accordion/)
 
 <!-- ## Demo :sparkles:
 <img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300"> -->
@@ -37,10 +37,10 @@ What makes your project stand out? (screenshots if beneficial)
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
 
-## :raised_hands: Acknowledgements
-- This project is part of a really great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)!
+## Acknowledgements :raised_hands:
+- This project is part of a great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk)
 
-## :sparkles: Demo
+## Demo :sparkles:
 <img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/accordion/arrays-and-loops/complete.gif?token=ABx4QaAWnonkOW__M_Rf2PJppikFbp0Eks5cbZaOwA%3D%3D" width="300">
 
 <!--
