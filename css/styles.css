@@ -1,8 +1,3 @@
-/**
- * base styles and typography
- * --------------------------
- */
-
 :root {
   --color-brown: #42210b;
 }
@@ -51,10 +46,6 @@ svg {
   content: "";
 }
 
-/**
- * START EDITING HERE
- * ==================
- */
 .accordion__header {
   padding-top: 1.5em;
   padding-right: 3em;
