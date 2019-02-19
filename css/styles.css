@@ -86,12 +86,20 @@ svg {
   width: 1rem;
 }
 
-.accordion__indicator .indicator__plus {
+.indicator__plus {
   display: block;
 }
 
-.accordion__indicator .indicator__minus {
+.indicator__minus {
   display: none;
+}
+
+.accordion.is-open .indicator__plus {
+  display: none;
+}
+
+.accordion.is-open .indicator__minus {
+  display: block;
 }
 
 .accordion__content {
@@ -100,6 +108,10 @@ svg {
   padding-right: 3em;
   padding-bottom: 1.5em;
   padding-left: 3em;
+}
+
+.is-open .accordion__content {
+  display: grid;
 }
 
 @media screen and (min-width: 700px) {
