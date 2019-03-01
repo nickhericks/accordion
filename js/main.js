@@ -1,10 +1,13 @@
-// Select all nodes that have the class of '.accordion'
-const accordions = document.querySelectorAll('.accordion');
+// Container for all accordion elements
+const container = document.querySelector('.accordion-container');
 
-// Create event listener for each accordion node
-accordions.forEach((accordion, index) => {
-  // Toggle 'is-open' class when accordion node is clicked
-  accordion.addEventListener('click', function() {
-    accordion.classList.toggle('is-open');
-  });
+
+// Event listener on the entire accordion-container element
+container.addEventListener('click', e => {
+	// Find closest bubbling element that has a class of accordion__header
+	const header = e.target.closest('.accordion__header');
+	// If that element exists in the event bubbling of the click, toggle is-open class
+	if (header) {
+		header.parentNode.classList.toggle('is-open');
+	}
 });
