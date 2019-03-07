@@ -8,6 +8,17 @@ container.addEventListener('click', e => {
 	const header = e.target.closest('.accordion__header');
 	// If that element exists in the event bubbling of the click, toggle is-open class
 	if (header) {
-		header.parentNode.classList.toggle('is-open');
+		const accordion = header.parentElement;
+		const content = header.nextElementSibling;
+		const inner = content.children[0];
+		const height = inner.getBoundingClientRect().height;
+
+		if (accordion.classList.contains('is-open')) {
+			content.style.height = '0px';
+		} else {
+			content.style.height = height + 'px';
+		}
+
+		accordion.classList.toggle('is-open');
 	}
 });

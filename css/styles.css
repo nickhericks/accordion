@@ -33,7 +33,8 @@ svg {
 }
 
 .accordion {
-  position: relative;
+	position: relative;
+	overflow: hidden;
 }
 
 .accordion::before {
@@ -94,19 +95,25 @@ svg {
 }
 
 .accordion__content {
-  display: none;
+  height: 0;
+	overflow: hidden;
+	transition: height 0.3s ease-out;
+}
+
+.is-open .accordion__content {
+  height: 200px;
+}
+
+.accordion__inner {
+  display: grid;
   grid-row-gap: 1rem;
   padding-right: 3em;
   padding-bottom: 1.5em;
   padding-left: 3em;
 }
 
-.is-open .accordion__content {
-  display: grid;
-}
-
 @media screen and (min-width: 700px) {
-  .accordion__content {
+  .accordion__inner {
     grid-template-columns: 7.5em 1fr;
     grid-column-gap: 2rem;
     align-items: center;
